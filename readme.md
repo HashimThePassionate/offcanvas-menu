@@ -2,6 +2,9 @@
 
 Welcome to the **Stylish Off-Canvas Menu Project**! This project is a sleek and modern implementation of a fully functional **off-canvas navigation menu** with smooth animations, responsive design, and customizable styles. Perfect for websites that need a professional and interactive navigation experience. 🚀
 
+**Live Demo** 🌐
+👉 [Check out the live demo](https://hashimthepassionate.github.io/offcanvas-menu/)
+
 ## **Table of Contents** 📚
 
 - [**Stylish Off-Canvas Menu Project** 🎨](#stylish-off-canvas-menu-project-)
@@ -89,7 +92,7 @@ offcanvas-menu/
 
 ## **Live Demo** 🌐
 
-👉 [Check out the live demo](#) (Add the GitHub Pages link after deployment).  
+👉 [Check out the live demo](https://hashimthepassionate.github.io/offcanvas-menu/)
 
 ---
 
