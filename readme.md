@@ -99,10 +99,14 @@ offcanvas-menu/
 ## **Screenshots** 📸
 
 ### **Desktop View** 🖥️
-![Desktop View](./screenshots/desktop.png)
+<div align="center">
+<img src="./screenshots/desktop.png" alt="Desktop View" />
+</div>
 
 ### **Mobile View** 📱
-![Mobile View](./screenshots/mobile.png)
+<div align="center">
+<img src="./screenshots/mobile.png" alt="Mobile View" />
+</div>
 
 ---
 
